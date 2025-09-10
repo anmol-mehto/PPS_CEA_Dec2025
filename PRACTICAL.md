@@ -32,5 +32,6 @@ int main (){
 }
 
 OUTPUT = 
-
+ENTER AMMOUNT U HAVE NOW  = 50
+THE AMOUNT AFTER 5 YEARS =500
 ```
